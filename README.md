@@ -1,5 +1,7 @@
 # GatewayMCP
 
+> **Archived.** GatewayMCP development continues in [`comindspace/ai-native`](https://github.com/comindspace/ai-native): the full server now ships there in the `gateway/` directory, together with the skill platform and a one-command VM installer (`bootstrap.sh`). This standalone mirror stays readable; releases up to v0.2.0 remain available as tags. No further updates will land here.
+
 [![CI](https://github.com/comindspace/gateway-mcp/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
